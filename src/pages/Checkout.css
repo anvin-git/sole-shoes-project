@@ -1,0 +1,22 @@
+.checkout-container {
+    padding: 40px 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .checkout-container .form-label {
+    font-size: 1rem;
+  }
+  
+  .checkout-container .form-control {
+    font-size: 1rem;
+    padding: 10px;
+  }
+  
+  .order-message {
+    margin-top: 20px;
+  }
+  
+  .order-message p {
+    font-size: 1.25rem;
+  }
+  
