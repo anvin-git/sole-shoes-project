@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import './Checkout.css';
+import './css/Checkout.css';
 
 const Checkout = () => {
   const [orderPlaced, setOrderPlaced] = useState(false);

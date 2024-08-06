@@ -1,5 +1,5 @@
 import React from 'react';
-import './Shop.css';
+import './css/Shop.css';
 
 const products = [
     { id: 1, name: 'Adidas Stan Smith', description: 'Classic white sneakers with green accents', price: '99.99', imageUrl: '/assets/images/adidas_stan_smith.jpg' },

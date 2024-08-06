@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import './ProductDetail.css';
+import './css/ProductDetail.css';
 
 const products = [
   { id: 1, name: 'Adidas Stan Smith', description: 'Classic white sneakers with green accents', price: '99.99', imageUrl: '/assets/images/adidas_stan_smith.jpg' },
